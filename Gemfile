@@ -52,3 +52,5 @@ gem 'simple_form'
 gem 'font-awesome-sass', '~> 5.15.1'
 gem 'bootstrap', '~> 5.0.1'
 gem "select2-rails"
+
+gem 'dotenv-rails', groups: [:development, :test]
